@@ -4,6 +4,7 @@ html{
 	padding-left: 10px;
 	padding-right: 10px;
   background-image: url('../Background/100.jpg');
+	background-size: 100% ;
 }
 .head11
 {
