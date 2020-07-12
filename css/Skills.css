@@ -13,7 +13,7 @@ html{
 	color: #FEFEFE;
 	float: right;
 	position: relative;
-	border-style: double;
+	border-style: none;
 }
 #b{
 	background: transparent;
@@ -22,7 +22,7 @@ html{
 	color: #FEFEFE;
 	position: relative;
 	float: left;
-	border-style: double;
+	border-style: none;
 	
 }
 #b2{
@@ -32,7 +32,7 @@ html{
 	color: #FEFEFE;
 	position: relative;
 	float: right;
-	border-style: double;
+	border-style: none;
 }
 
 #b3{
@@ -42,10 +42,9 @@ html{
 	color: #FEFEFE;
 	float: right;
 	position: relative;
-	border-style: double;
+	border-style: none;
 }
 #b:hover{
-	transform: scale(1.5);
 	color:gold;
 }
 #b1:hover{
@@ -67,7 +66,7 @@ html{
 	color: #FEFEFE;
 	position: relative;
 	float: right;
-	border-style: double;
+	border-style: none;
 }
 .data{
 	color: aliceblue;
