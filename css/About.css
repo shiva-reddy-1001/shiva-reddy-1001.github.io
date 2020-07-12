@@ -11,26 +11,25 @@ html{
 	color: #FEFEFE;
 	float: right;
 	position: relative;
-	border-style: double;
+	border-style: none;
+	opacity: 1;
 }
 #b{
 	background: transparent;
-	tab-size: 10px;
 	font-size: 30px;
 	color: #FEFEFE;
 	position: relative;
+	border-style: none;
 	float: left;
-	border-style: double;
 	
 }
 #b2{
 	background: transparent;
-	tab-size: 10px;
 	font-size: 30px;
 	color: #FEFEFE;
 	position: relative;
 	float: right;
-	border-style: double;
+	border-style: none;
 }
 
 #b3{
@@ -40,7 +39,7 @@ html{
 	color: #FEFEFE;
 	float: right;
 	position: relative;
-	border-style: double;
+	border-style: none;
 }
 #b4{
 	background: transparent;
@@ -48,15 +47,16 @@ html{
 	font-size: 30px;
 	color: #FEFEFE;
 	position: relative;
+	border-style: none;
 	float: right;
-	border-style: double;
 }
 #b:hover{
-	transform: scale(1.5);
 	color:gold;
+	opacity: 1;
 }
 #b1:hover{
 	color:gold;
+	opacity: 1;
 }
 #b2:hover{
 	color:gold;
@@ -69,9 +69,8 @@ html{
 }
 .data{
 	padding-top: 10%;
+	padding-left: 5%;
 	font-size: 30px;
 	color:aliceblue;
-
-	
-	
+	text-align: center;	
 }

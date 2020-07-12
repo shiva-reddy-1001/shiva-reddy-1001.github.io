@@ -3,7 +3,7 @@ html{
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-attachment: fixed;
-	background-color:#1D0C0D;
+	background-color:#160A0D;
 }
 .head11
 {
@@ -19,7 +19,7 @@ html{
 	background: transparent;
 	font-size: 30px;
 	color: #FEFEFE;
-	border-style: double;
+	border-style: none;
 	float: right;
 	position: relative;
 }
@@ -28,7 +28,7 @@ html{
 	tab-size: 10px;
 	font-size: 30px;
 	color: #FEFEFE;
-	border-style: double;
+	border-style: none;
 	float: right;
 	position: relative;
 }
@@ -37,7 +37,7 @@ html{
 	tab-size: 10px;
 	font-size: 30px;
 	color: #FEFEFE;
-	border-style: double;
+	border-style: none;
 	float: right;
 	position: relative;
 }
@@ -46,7 +46,7 @@ html{
 	tab-size: 10px;
 	font-size: 30px;
 	color: #FEFEFE;
-	border-style: double;
+	border-style: none;
 	float: right;
 	position: relative;
 }
@@ -65,5 +65,8 @@ html{
 #head222{
 	color:gold;
 	font-size: 50px;
+}
+#head222:hover{
+	transform: scale3d(1.5);
 }
 
