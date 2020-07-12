@@ -6,12 +6,6 @@ html{
 	background-size: 100% ;
 	
 }
-.follow{
-	padding-left: 100px;
-	padding-top: 30px;
-	backface-visibility: hidden;
-	background-blend-mode: color-dodge;	
-}
 #b1{
 	background: transparent;
 	tab-size: 10px;

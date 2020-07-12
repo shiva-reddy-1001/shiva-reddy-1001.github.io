@@ -1,15 +1,8 @@
 
 html{
-	background-image: url('../Background/1002.jpg');
-	background-attachment: fixed;
+	background-color:#082F4E;
 	background-repeat:repeat-y;
 	background-size: cover;
-}
-.follow{
-	padding-left: 10%;
-	padding-top: 1%;
-	backface-visibility: hidden;
-	background-blend-mode: color-dodge;	
 }
 #b1{
 	background: transparent;
@@ -75,8 +68,7 @@ html{
 	color:gold;
 }
 .data{
-	padding-top: 12.5%;
-	padding-left: 33%;
+	padding-top: 10%;
 	font-size: 30px;
 	color:aliceblue;
 

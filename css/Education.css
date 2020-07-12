@@ -1,15 +1,8 @@
 @charset "UTF-8";
 html{
-	background-image: url('../Background/600.jpg');
 	background-color:#231E25;
 	background-repeat: no-repeat;
 	background-size: contain;
-}
-.follow{
-	padding-left: 10%;
-	padding-top: 1%;
-	backface-visibility: hidden;
-	background-blend-mode: color-dodge;	
 }
 #b1{
 	background: transparent;
