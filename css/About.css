@@ -3,7 +3,7 @@ html{
 	background-image: url('../Background/1002.jpg');
 	background-color:#082F4E;
 	background-attachment: fixed;
-	background-repeat: no-repeat;
+	background-repeat:repeat-y;
 	background-size: cover;
 }
 .follow{
