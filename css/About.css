@@ -1,6 +1,6 @@
 
 html{
-	background-image: url('../Background/400.png');
+	background-color: #310001;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -74,8 +74,8 @@ html{
 	color:gold;
 }
 .data{
-	padding-top: 100px;
-	padding-left: 700px;
+	padding-top: 12.5%;
+	padding-left: 25%;
 	font-size: 30px;
 	color:aliceblue;
 
