@@ -1,15 +1,14 @@
 html{
-  padding-top: 30px;
-	padding-bottom: 30px;
-	padding-left: 10px;
-	padding-right: 10px;
+  padding-top: 0.5%;
+	padding-left: 1%;
+	padding-right: 1%;
   background-image: url('../Background/100.jpg');
-	background-size: 100% 100%;
+	background-size: 100% ;
 }
 .head11
 {
-	padding-left: 100px;
-	padding-top: 100px ;
+	padding-left: 6%;
+	padding-top: 5% ;
   	color : #FFFFFF;
 	text-align-last: left;
 	font-size: 40px;
@@ -26,6 +25,8 @@ html{
 	font-size: 30px;
 	color: #FEFEFE;
 	border-style: double;
+	float: right;
+	position: relative;
 }
 #b2{
 	background: transparent;
@@ -33,13 +34,17 @@ html{
 	font-size: 30px;
 	color: #FEFEFE;
 	border-style: double;
+	float: right;
+	position: relative;
 }
 #b3{
 	background: transparent;
 	tab-size: 10px;
 	font-size: 30px;
 	color: #FEFEFE;
-	border-style: double;	
+	border-style: double;
+	float: right;
+	position: relative;
 }
 #b4{
 	background: transparent;
@@ -47,6 +52,8 @@ html{
 	font-size: 30px;
 	color: #FEFEFE;
 	border-style: double;
+	float: right;
+	position: relative;
 }
 #b1:hover{
 	color:gold;
