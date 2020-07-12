@@ -1,0 +1,65 @@
+html{
+  padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+  background-image: url('../Background/100.jpg');
+}
+.head11
+{
+	padding-left: 100px;
+	padding-top: 100px ;
+  	color : #FFFFFF;
+	text-align-last: left;
+	font-size: 40px;
+}
+.follow{
+	padding-left: 1000px;
+	padding-top: 30px;
+	backface-visibility: hidden;
+	background-blend-mode: color-dodge;	
+}
+#b1{
+	background: transparent;
+	tab-size: 10px;
+	font-size: 30px;
+	color: #FEFEFE;
+	border-style: double;
+}
+#b2{
+	background: transparent;
+	tab-size: 10px;
+	font-size: 30px;
+	color: #FEFEFE;
+	border-style: double;
+}
+#b3{
+	background: transparent;
+	tab-size: 10px;
+	font-size: 30px;
+	color: #FEFEFE;
+	border-style: double;	
+}
+#b4{
+	background: transparent;
+	tab-size: 10px;
+	font-size: 30px;
+	color: #FEFEFE;
+	border-style: double;
+}
+#b1:hover{
+	color:gold;
+}
+#b2:hover{
+	color:gold;
+}
+#b3:hover{
+	color:gold;
+}
+#b4:hover{
+	color:gold;
+}
+#head222{
+	font-size: 80px;
+}
+

@@ -1,0 +1,111 @@
+
+html{
+	background-image: url('../Background/700.jpg');
+	background-repeat: no-repeat;
+	background-color:#111C22;
+	background-size:cover;
+}
+.follow{
+	padding-left: 100px;
+	padding-top: 30px;
+	backface-visibility: hidden;
+	background-blend-mode: color-dodge;	
+}
+#b:hover{
+	transform: scale(1.5);
+	color:gold;
+}
+#b1:hover{
+	color:gold;
+}
+#b2:hover{
+	color:gold;
+}
+#b3:hover{
+	color:gold;
+}
+#b4:hover{
+	color:gold;
+}
+#b1{
+	background: transparent;
+	tab-size: 10px;
+	font-size: 30px;
+	color: #FEFEFE;
+	float: right;
+	position: relative;
+	border-style: double;
+}
+#b{
+	background: transparent;
+	tab-size: 10px;
+	font-size: 30px;
+	color: #FEFEFE;
+	position: relative;
+	float: left;
+	border-style: double;
+	
+}
+#b2{
+	background: transparent;
+	tab-size: 10px;
+	font-size: 30px;
+	color: #FEFEFE;
+	position: relative;
+	float: right;
+	border-style: double;
+}
+
+#b3{
+	background: transparent;
+	tab-size: 10px;
+	font-size: 30px;
+	color: #FEFEFE;
+	float: right;
+	position: relative;
+	border-style: double;
+}
+#b4{
+	background: transparent;
+	tab-size: 10px;
+	font-size: 30px;
+	color: #FEFEFE;
+	position: relative;
+	float: right;
+	border-style: double;
+}
+.logo{
+	padding-top:50px;
+	padding-left: 400px;
+}
+#fb:hover{
+	transform: scale(1.7);
+}
+#twi:hover{
+	transform: scale(1.7);
+}
+#mail:hover{
+	transform: scale(1.7);
+}
+#Git:hover{
+	transform: scale(1.7);
+}#lin:hover{
+	transform: scale(1.7);
+}
+#insta:hover{
+	transform: scale(1.7);
+}
+#quo:hover{
+	transform: scale(1.7);
+}
+.mat{
+	padding-left: 100px;
+	padding-top:200px;
+}
+.mat1{
+	color:aliceblue;
+	padding-top:50px;
+	padding-left:100px;
+}
+
+
