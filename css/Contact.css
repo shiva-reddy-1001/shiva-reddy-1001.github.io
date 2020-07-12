@@ -3,7 +3,7 @@ html{
 	background-image: url('../Background/700.jpg');
 	background-repeat: no-repeat;
 	background-color:#111C22;
-	background-size: 100% ;
+	background-size: 100% 100%;
 }
 .follow{
 	padding-left: 100px;

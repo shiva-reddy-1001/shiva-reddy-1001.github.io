@@ -2,11 +2,11 @@
 html{
 	background-color: #310001;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 100% 100%;
 }
 .follow{
-	padding-left: 6.51%;
-	padding-top: 3.47%;
+	padding-left: 100px;
+	padding-top: 30px;
 	backface-visibility: hidden;
 	background-blend-mode: color-dodge;	
 }
