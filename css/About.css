@@ -1,12 +1,14 @@
 
 html{
-	background-color: #310001;
+	background-image: url('../Background/400.png');
+	background-color:#082F4E;
+	background-attachment: fixed;
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: cover;
 }
 .follow{
-	padding-left: 100px;
-	padding-top: 30px;
+	padding-left: 10%;
+	padding-top: 1%;
 	backface-visibility: hidden;
 	background-blend-mode: color-dodge;	
 }
@@ -75,7 +77,7 @@ html{
 }
 .data{
 	padding-top: 12.5%;
-	padding-left: 25%;
+	padding-left: 33%;
 	font-size: 30px;
 	color:aliceblue;
 

@@ -1,12 +1,13 @@
 html{
-  padding-top: 0.5%;
-	padding-left: 1%;
-	padding-right: 1%;
   background-image: url('../Background/100.jpg');
-	background-size: 100% ;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-attachment: fixed;
+	background-color: #020E0E;
 }
 .head11
 {
+	
 	padding-left: 6%;
 	padding-top: 5% ;
   	color : #FFFFFF;
@@ -14,14 +15,13 @@ html{
 	font-size: 40px;
 }
 .follow{
-	padding-left: 100px;
-	padding-top: 30px;
+	padding-left: 10%;
+	padding-top: 1%;
 	backface-visibility: hidden;
 	background-blend-mode: color-dodge;	
 }
 #b1{
 	background: transparent;
-	tab-size: 10px;
 	font-size: 30px;
 	color: #FEFEFE;
 	border-style: double;

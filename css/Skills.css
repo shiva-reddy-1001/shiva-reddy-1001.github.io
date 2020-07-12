@@ -2,8 +2,10 @@
 
 html{
 	background-image: url('../Background/500.jpg');
+	background-color: #0A1C1E;
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: 100%;
+	
 }
 .follow{
 	padding-left: 100px;
