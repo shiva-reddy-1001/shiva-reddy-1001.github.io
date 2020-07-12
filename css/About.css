@@ -2,7 +2,7 @@
 html{
 	background-image: url('../Background/400.png');
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: cover;
 }
 .follow{
 	padding-left: 6.51%;
