@@ -1,0 +1,131 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin:0;
+  font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+  font-size:1rem;
+  font-weight:normal;
+  line-height:1.5;
+  color:#333;
+  overflow-x:hidden;
+}
+
+.v-header{
+  height:100vh;
+  display:flex;
+  align-items:center;
+  color:#fff;
+}
+
+.container{
+  max-width:960px;
+  padding-left:1rem;
+  padding-right:1rem;
+  margin:auto;
+  text-align:center;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 20px;
+}
+
+.fullscreen-video-wrap{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100vh;
+  overflow:hidden;
+}
+
+.fullscreen-video-wrap video{
+  min-height:100%;
+  min-width:100%;
+}
+
+.header-overlay{
+  height:100vh;
+  position: absolute;
+  top:0;
+  left:0;
+  width:100vw;
+  z-index:1;
+  background:#225470;
+  opacity:0.85;
+}
+
+.header-content{
+  z-index:2;
+	align-items: center;
+}
+
+.header-content h1{
+  font-size:50px;
+  margin-bottom:0;
+}
+
+.header-content p{
+  font-size:1.5rem;
+  display:block;
+  padding-bottom:2rem;
+}
+
+.btn{
+  background: #34b3a0;
+  color:#fff;
+  font-size:1.2rem;
+  padding: 1rem 2rem;
+  text-decoration: none;
+}
+
+.section{
+  padding: 20px 0;
+}
+.section-a{
+	background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+}
+.section-b{
+ background-color :#3f0d12;
+background-image: linear-gradient( 112.1deg,  rgba(32,38,57,1) 11.4%, rgba(63,76,119,1) 70.2% );
+
+  color:#fff;
+}
+.section-c{
+ background-color: #3f0d12;
+background-image: radial-gradient( circle 966px at 6.9% 10.8%, rgba(147,186,252,1) 10% , rgba(92,123,237,1) 90%);
+  color:#000;
+}
+.section-d{
+ background-color: #2F0743;
+	background-image: linear-gradient(315deg, #000000 10%, #434343 74%);
+  color:#FFF;
+}
+
+@media(max-width:960px){
+  .container{
+    padding-right:3rem;
+    padding-left:3rem;
+  }
+}
+#fb:hover{
+	transform: scale(1.7);
+}
+#twi:hover{
+	transform: scale(1.7);
+}
+#mail:hover{
+	transform: scale(1.7);
+}
+#Git:hover{
+	transform: scale(1.7);
+}#lin:hover{
+	transform: scale(1.7);
+}
+#insta:hover{
+	transform: scale(1.7);
+}
+#quo:hover{
+	transform: scale(1.7);
+}
