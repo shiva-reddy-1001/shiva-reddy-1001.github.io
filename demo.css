@@ -143,13 +143,14 @@ body{
 
 .header-content{
   z-index: 2;
-  align-items: left;
+
+  padding-top: 3rem;
 }
 
 .header-content h1{
-  font-size:4rem;
+  font-size:3rem;
   margin-bottom:0;
-  line-height: 4.2rem;
+  line-height: 4rem;
 }
 
 .header-content p{
