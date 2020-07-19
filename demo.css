@@ -9,7 +9,7 @@ html{
 
 body{
   margin:0;
-  font-family:montserrat;
+  font-family:'Montserrat';
   font-size:1rem;
   font-weight:normal;
   line-height:1.5;
@@ -111,7 +111,7 @@ body{
   padding-right:1rem;
   margin:auto;
   text-align:left;
-	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-family:'Montserrat';
   font-size: 24px;
   line-height: 32px;
 }
@@ -147,9 +147,9 @@ body{
 }
 
 .header-content h1{
-  font-size:56px;
+  font-size:4rem;
   margin-bottom:0;
-  line-height: 64px;
+  line-height: 4.2rem;
 }
 
 .header-content p{
