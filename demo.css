@@ -168,7 +168,7 @@ body{
 .section-b{
 background:#b1babf;
  background-image: url('22.jpg');
-  background-size:auto;
+  background-size:cover;
  background-blend-mode:screen;
  background-position: inherit;
 }
