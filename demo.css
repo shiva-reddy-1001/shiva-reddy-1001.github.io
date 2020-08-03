@@ -1,12 +1,10 @@
 @charset "utf-8";
-/* CSS Document */
-*{
-  box-sizing: border-box;
-}
+  *{
+    box-sizing: border-box;
+  }
 html{
-	scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
-
 body{
   margin:0;
   font-family:'Montserrat';
@@ -36,7 +34,6 @@ body{
   width: 100%;
   z-index: inherit;
 }
-
 .navbar a {
   float: right;
   display: block;
@@ -46,7 +43,6 @@ body{
   text-decoration: none;
   font-size: 14px;
 }
-
 .navbar a:hover {
   background: #ddd;
   color: black;
@@ -65,7 +61,6 @@ body{
   margin-left: -30px;
   bottom: 20px;
 }
-
 .arrows path {
   stroke: #ffffff;
   fill: transparent;
@@ -73,7 +68,6 @@ body{
   animation: arrow 2s infinite;
   -webkit-animation: arrow 2s infinite; 
 }
-
 @keyframes arrow
 {
 0% {opacity:0}
@@ -81,7 +75,6 @@ body{
 80% {opacity:0}
 100% {opacity:0}
 }
-
 @-webkit-keyframes arrow /*Safari and Chrome*/
 {
 0% {opacity:0}
@@ -89,22 +82,18 @@ body{
 80% {opacity:0}
 100% {opacity:0}
 }
-
 .arrows path.a1 {
   animation-delay:-1s;
   -webkit-animation-delay:-1s; /* Safari 和 Chrome */
 }
-
 .arrows path.a2 {
   animation-delay:-0.5s;
   -webkit-animation-delay:-0.5s; /* Safari 和 Chrome */
 }
-
 .arrows path.a3 {   
   animation-delay:0s;
   -webkit-animation-delay:0s; /* Safari 和 Chrome */
 }
-
 .container{
   max-width:960px;
   padding-left:1rem;
@@ -115,7 +104,6 @@ body{
   font-size: 24px;
   line-height: 32px;
 }
-
 .fullscreen-video-wrap{
   position:absolute;
   top:0;
@@ -124,35 +112,30 @@ body{
   height:100%;
   overflow:hidden;
 }
-
 .fullscreen-video-wrap video{
   min-height:100%;
   min-width:100%;
 }
-
 .header-overlay{
-  height:100vh;
+  height:100%;
   position: absolute;
   top:0;
   left:0;
-  width:100vw;
+  width:100%;
   z-index:1;
   background:#3e3e3e;
   opacity:0.85;
 }
-
 .header-content{
   z-index: 2;
+  text-align: left;
 
-  padding-top: 3rem;
 }
-
 .header-content h1{
-  font-size:3rem;
+  font-size:4rem;
   margin-bottom:0;
-  line-height: 4rem;
+  line-height: 4.2rem;
 }
-
 .header-content p{
   font-size:1.5rem;
   display:block;
@@ -164,7 +147,6 @@ body{
 }
 .section-a{
   background:#ffffff;
-  
 }
 .section-b{
 background:#b1babf;
@@ -175,7 +157,6 @@ background:#b1babf;
 }
 .section-c{
  background:#ffffff;
-  
 }
 .section-d{
   background:#b1babf;
